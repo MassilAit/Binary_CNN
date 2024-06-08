@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*$py.class
+/started
+/logs
+/data/sad/*
+/data/happy/*
+/.ipynb_checkpoints
